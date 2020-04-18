@@ -4,13 +4,13 @@ url: "https://dmikushin.github.io"
 # Internal nav
 nav:
   main:
-    writing: "/writing"
-    speaking: "/speaking"
+    blog: "/blog"
+    talks: "/talks"
     projects: "/projects"
-  writing:
-    all: "/writing"
-    popular: "/writing/popular"
-    tags: "/writing/tags"
+  blog:
+    all: "/blog"
+    popular: "/blog/popular"
+    tags: "/blog/tags"
     rss: "/feed.xml"
 
 # Bio settings
@@ -18,9 +18,11 @@ name: "Dmitry Mikushin"
 description: "The home page of Dmitry Mikushin, GPU&amp;HPC engineer, co-founder of Purple Gaze Inc."
 thumbnail_path: "profile-photos/picture.jpg"
 purplegaze_url: "https://purplegaze.io/"
-apcllc_repo_url: "https://parallel-computing.pro/"
+apcllc_url: "https://parallel-computing.pro/"
 unil_url: "https://www.unil.ch/hec-phd/en/home/menuinst/programs/phd-in-business-analytics/current-students.html"
-website_repo_url: "https://github.com/dmikushin/homepage"
+website_repo_url: "https://github.com/dmikushin/dmikushin.github.io"
+my_github_url: "https://github.com/dmikushin"
+apcllc_github_url: "https://github.com/apc-llc"
 
 # URLs
 contact_urls:
@@ -40,8 +42,8 @@ contact_urls:
 
 # Jekyll build settings
 paginate: 10
-paginate_path: "/writing/page:num"
-permalink: "/writing/:year/:month/:day/:title/"
+paginate_path: "/blog/page:num"
+permalink: "/blog/:year/:month/:day/:title/"
 sass:
   sass_dir: "/assets/css"
   style: :compressed
