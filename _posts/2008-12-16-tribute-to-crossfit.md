@@ -2,7 +2,7 @@
 layout: post
 title: A Tribute to Crossfit
 date: '2008-12-16T11:20:00.001-08:00'
-author: Yevgeniy Brikman
+author: Dmitry Mikushin
 tags:
 - Crossfit
 - Health and Fitness

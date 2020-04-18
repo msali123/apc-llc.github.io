@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yevgeniy Brikman on the devRant Podcast"
+title: "Dmitry Mikushin on the devRant Podcast"
 tags:
 - External Writing
 - Startups

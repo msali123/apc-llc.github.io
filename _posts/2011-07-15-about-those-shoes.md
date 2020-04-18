@@ -2,7 +2,7 @@
 layout: post
 title: About those shoes...
 date: '2011-07-15T00:34:00.000-07:00'
-author: Yevgeniy Brikman
+author: Dmitry Mikushin
 tags:
 - HowTo
 - Health and Fitness

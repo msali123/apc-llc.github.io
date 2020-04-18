@@ -1,12 +1,10 @@
-# Yevgeniy Brikman Home Page
+# Dmitry Mikushin Home Page
 
-This is the code for the [Yevgeniy Brikman Home Page](https://www.ybrikman.com).
+This is the code for the [Dmitry Mikushin Home Page](https://dmikushin.github.io).
 
-![Yevgeniy Brikman Home Page Screenshot](/assets/img/screenshots/ybrikman-homepage-screenshot.png)
-
-I wanted a clean, simple home page where I could put my writing, speaking,
+Yevgeniy Brikman wanted a clean, simple home page where he could put my writing, speaking,
 projects, and photos. It had to be fast, mobile-friendly, free to build, and
-easy to update. This is the result. Forks and pull requests are welcome!
+easy to update. This is the fork of his work.
 
 Check out [Migrating from Blogger to GitHub Pages and launching the new ybrikman.com](https://www.ybrikman.com/writing/2015/04/20/migrating-from-blogger-to-github-pages/)
 for background info.
@@ -31,8 +29,8 @@ documentation for more info.
 ## Docker quick start
 
 As an alternative to installing Ruby and Jekyll, if you're a user of
-[Docker](https://www.docker.com/), you can run a Docker image of
-yevgeniy-brikman-homepage that has all the dependencies already setup for you.
+[Docker](https://www.docker.com/), you can run a Docker image
+that has all the dependencies already setup for you.
 
 1. `git clone` this repo
 2. `docker-compose up`
