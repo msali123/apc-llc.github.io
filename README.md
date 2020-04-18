@@ -2,7 +2,7 @@
 
 This is the code for the [Dmitry Mikushin Home Page](https://dmikushin.github.io).
 
-Yevgeniy Brikman wanted a clean, simple home page where he could put my writing, speaking,
+Yevgeniy Brikman wanted a clean, simple home page where he could put his writing, speaking,
 projects, and photos. It had to be fast, mobile-friendly, free to build, and
 easy to update. This is the fork of his work.
 
