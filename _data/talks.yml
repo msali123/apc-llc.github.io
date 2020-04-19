@@ -54,9 +54,7 @@
 - name: "Generic approach to Legacy Fortran code porting on GPU"
   date: "June 15, 2015"
   description: |
-    In this seminar we will present our experience with porting 200K line Fortran codebase onto GPU: SixTrack
-model - the LHC Accelerator Beam Dynamics. We will present the steps of source code transformation,
-modifications into crlibm and cernlib, compilation and execution.
+    In this seminar we will present our experience with porting 200K line Fortran codebase onto GPU: SixTrack model - the LHC Accelerator Beam Dynamics. We will present the steps of source code transformation, modifications into crlibm and cernlib, compilation and execution.
   embed_url: "//www.youtube.com/embed/RaMy2vfWGvA"
   links:
     - label: "Video"
@@ -87,9 +85,9 @@ modifications into crlibm and cernlib, compilation and execution.
       
       
 - name: "Introduction à CUDA"
-    Introduction to CUDA in French by Dr. Flavio Calvo
   date: "June 15, 2015"
   description: |
+    Introduction to CUDA in French by Dr. Flavio Calvo
   embed_url: "//www.youtube.com/embed/oxSBKJNKKmc"
   links:
     - label: "Video"
