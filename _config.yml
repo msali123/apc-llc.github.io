@@ -20,24 +20,24 @@ thumbnail_path: "profile-photos/picture.jpg"
 purplegaze_url: "https://purplegaze.io/"
 apcllc_url: "https://parallel-computing.pro/"
 unil_url: "https://www.unil.ch/hec-phd/en/home/menuinst/programs/phd-in-business-analytics/current-students.html"
-website_repo_url: "https://github.com/dmikushin/dmikushin.github.io"
+website_repo_url: "https://github.com/apc-llc/apc-llc.github.io"
 my_github_url: "https://github.com/dmikushin"
 apcllc_github_url: "https://github.com/apc-llc"
 
 # URLs
 contact_urls:
   linkedin:
-    url: "https://www.linkedin.com/in/dmikushin/"
+    url: "https://www.linkedin.com/company/applied-parallel-computing/about/?viewAsMember=true"
     label: "LinkedIn"
     icon: "linkedin-square"
   github:
-    url: "https://github.com/dmikushin/"
+    url: "https://github.com/apc-llc/"
     label: "GitHub"
     icon: "github-square"
   email:
-    url: "mailto:dmitry@kernelgen.org"
+    url: "mailto:contact@parallel-computing.pro"
     label: "Email"
-    value: "dmitry@kernelgen.org"
+    value: "contact@parallel-computing.pro"
     icon: "envelope-square"
 
 # Jekyll build settings
