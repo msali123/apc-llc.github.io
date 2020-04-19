@@ -1,6 +1,6 @@
-# Dmitry Mikushin Home Page
+# APC LLC Home Page
 
-This is the code for the [Dmitry Mikushin Home Page](https://dmikushin.github.io).
+This is the code for the [APC LLC Home Page](https://apc-llc.github.io).
 
 Yevgeniy Brikman wanted a clean, simple home page where he could put his writing, speaking,
 projects, and photos. It had to be fast, mobile-friendly, free to build, and
