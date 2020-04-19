@@ -6,6 +6,9 @@
   links:
     - label: "Video"
       url: "https://youtu.be/YOgj_2CIhyM"
+
+
+
 - name: "Advanced GPU computing: GPU architecture, CUDA shared memory"
   date: "June 15, 2015"
   description: |
@@ -14,3 +17,147 @@
   links:
     - label: "Video"
       url: "https://youtu.be/1ZMlJza5vwU"
+
+
+
+- name: "Advanced GPU computing: Efficient CPU-GPU memory transfers, CUDA streams"
+  date: "June 15, 2015"
+  description: |
+    In this excellent talk Mr. Juraj Kardos explains advanced CUDA programming topics.
+  embed_url: "//www.youtube.com/embed/Yv4thF9tvPo"
+  links:
+    - label: "Video"
+      url: "https://youtu.be/Yv4thF9tvPo"
+
+
+
+- name: "Introduction to GPU computing"
+  date: "June 15, 2015"
+  description: |
+  embed_url: "//www.youtube.com/embed/qLOI6Q1EVAQ"
+  links:
+    - label: "Video"
+      url: "https://youtu.be/qLOI6Q1EVAQ"
+
+      
+      
+- name: "Introduction to CUDA"
+  date: "June 15, 2015"
+  description: |
+  embed_url: "//www.youtube.com/embed/NXfpumZE51Q"
+  links:
+    - label: "Video"
+      url: "https://youtu.be/NXfpumZE51Q"
+
+
+
+- name: "Generic approach to Legacy Fortran code porting on GPU"
+  date: "June 15, 2015"
+  description: |
+    In this seminar we will present our experience with porting 200K line Fortran codebase onto GPU: SixTrack
+model - the LHC Accelerator Beam Dynamics. We will present the steps of source code transformation,
+modifications into crlibm and cernlib, compilation and execution.
+  embed_url: "//www.youtube.com/embed/RaMy2vfWGvA"
+  links:
+    - label: "Video"
+      url: "https://youtu.be/RaMy2vfWGvA"
+
+
+
+- name: "Adopting Fortran legacy code for ensemble simulations on GPU: the experience with Sixtrack"
+  date: "October 30, 2015"
+  description: |
+    In this seminar we will present our experience with porting 200K line Fortran codebase onto GPU: SixTrack model - the LHC Accelerator Beam Dynamics. We present the steps of source code transformation, compilation and execution.
+  embed_url: "//www.youtube.com/embed/vt1MFBLHzzw"
+  links:
+    - label: "Video"
+      url: "https://youtu.be/vt1MFBLHzzw"
+
+
+
+- name: "Introduction au calcul par le GPU et à son architecture"
+  date: "June 15, 2015"
+  description: |
+    Introduction to GPU computing and architecture in French by Dr. Flavio Calvo
+  embed_url: "//www.youtube.com/embed/uHK4Mj6TSSY"
+  links:
+    - label: "Video"
+      url: "https://youtu.be/uHK4Mj6TSSY"
+
+      
+      
+- name: "Introduction à CUDA"
+    Introduction to CUDA in French by Dr. Flavio Calvo
+  date: "June 15, 2015"
+  description: |
+  embed_url: "//www.youtube.com/embed/oxSBKJNKKmc"
+  links:
+    - label: "Video"
+      url: "https://youtu.be/oxSBKJNKKmc"
+
+
+
+- name: "Advanced aspects of CUDA"
+  date: "June 15, 2015"
+  description: |
+    Advanced aspects of CUDA programming presented by Juraj Kardos
+  embed_url: "//www.youtube.com/embed/UnG37IhySe0"
+  links:
+    - label: "Video"
+      url: "https://youtu.be/UnG37IhySe0"
+
+      
+      
+- name: "Introduction à CUDA"
+  date: "June 15, 2015"
+  description: |
+    Introduction to CUDA in French by Dr. Gabriel Noaje
+  embed_url: "//www.youtube.com/embed/ZFLRNii0S-I"
+  links:
+    - label: "Video"
+      url: "https://youtu.be/ZFLRNii0S-I"
+
+
+
+- name: "Introducción a CUDA (parte 1)"
+  date: "June 15, 2015"
+  description: |
+    Introduction to CUDA in Spanish by Dr. Mario Martinez-Zarzuela
+  embed_url: "//www.youtube.com/embed/iQi1FQm3qUA"
+  links:
+    - label: "Video"
+      url: "https://youtu.be/iQi1FQm3qUA"
+
+
+
+- name: "Introducción a CUDA (parte 2)"
+  date: "June 15, 2015"
+  description: |
+    Introduction to CUDA in Spanish by Dr. Mario Martinez-Zarzuela
+  embed_url: "//www.youtube.com/embed/JHo8BfXl-mM"
+  links:
+    - label: "Video"
+      url: "https://youtu.be/JHo8BfXl-mM"
+
+
+
+- name: "Introducción a CUDA (parte 3)"
+  date: "June 15, 2015"
+  description: |
+    Introduction to CUDA in Spanish by Dr. Mario Martinez-Zarzuela
+  embed_url: "//www.youtube.com/embed/0mVGo5_3ZDA"
+  links:
+    - label: "Video"
+      url: "https://youtu.be/0mVGo5_3ZDA"
+
+
+
+- name: "Introducción a CUDA (parte 4)"
+  date: "June 15, 2015"
+  description: |
+    Introduction to CUDA in Spanish by Dr. Mario Martinez-Zarzuela
+  embed_url: "//www.youtube.com/embed/yQEfHvkAIZM"
+  links:
+    - label: "Video"
+      url: "https://youtu.be/yQEfHvkAIZM"
+
