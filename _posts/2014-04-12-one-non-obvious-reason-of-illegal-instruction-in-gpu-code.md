@@ -8,7 +8,7 @@ thumbnail_path: blog/2014-04-12-one-non-obvious-reason-of-illegal-instruction-in
 
 If cuda-gdb throws Program received signal CUDA_EXCEPTION_4, Warp Illegal Instruction. for the following code line:
 
-```
+```asm
 [Switching focus to CUDA kernel 295, grid 148, block (0,2,3), thread (0,0,0), device 0, sm 0, warp 26, lane 0]
 0x00000000010b39f0 in cos ()
 (cuda-gdb) disass
