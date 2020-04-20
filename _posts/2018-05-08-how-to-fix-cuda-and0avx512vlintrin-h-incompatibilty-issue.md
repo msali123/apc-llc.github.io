@@ -5,7 +5,7 @@ tags:
 - CUDA
 - Software Engineering
 - GCC
-thumbnail_path: blog/2018-05-08-how-to-fix-cuda-and0avx512vlintrin-h-incompatibilty-issue2018-05-08-how-to-fix-cuda-and0avx512vlintrin-h-incompatibilty-issue/gcc.png
+thumbnail_path: blog/2018-05-08-how-to-fix-cuda-and0avx512vlintrin-h-incompatibilty-issue/gcc.png
 ---
 
 Recent 5.x and 6.x GCC compilers are causing NVCC to produce the following kind of weird compile errors:
