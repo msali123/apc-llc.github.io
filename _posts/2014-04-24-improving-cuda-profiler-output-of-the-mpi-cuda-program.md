@@ -8,7 +8,7 @@ thumbnail_path: blog/2014-04-24-improving-cuda-profiler-output-of-the-mpi-cuda-p
 
 Consider we need to profile the following MPI-CUDA program on GPU cluster. The most obvious way to profile this code on console-only cluster would be to invoke the profiler inside the mpirun command:
 
-```cuda
+```c++
 #include <stdio.h>
 #include <stdlib.h>
 
