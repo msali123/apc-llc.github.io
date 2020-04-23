@@ -2,12 +2,12 @@
 layout: post
 title: "How to get infinite loops to work in CUDA"
 tags:
-- CUDA
-- Software Engineering
+  - CUDA
+  - Software Engineering
 thumbnail_path: blog/2018-06-12-how-to-get-infinite-loops-to-work-in-cuda/infinite-loop.png
 ---
 
-The CUDA compiler does not handle infinite loops properly. For instance, the loop below will be completely eliminated from the resulting assembly, along with its contents. This situation seems to be known at least since 2012.
+The CUDA compiler does not handle infinite loops properly. For instance, the loop below will be completely eliminated from the resulting assembly, along with its contents. This situation seems to be [known](https://stackoverflow.com/questions/10436228/cuda-infinite-kernel) at least since 2012.
 
 ```c++
 while(1)
@@ -27,4 +27,3 @@ while (infinity)
   ...
 }
 ```
-
