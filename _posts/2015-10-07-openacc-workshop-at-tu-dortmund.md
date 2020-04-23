@@ -2,7 +2,9 @@
 layout: post
 title: "OpenACC workshop at TU Dortmund"
 tags:
-  - Software Engineering
+- Software Engineering
+- Trainings
+- OpenACC
 thumbnail_path: blog/2015-10-07-openacc-workshop-at-tu-dortmund/photo.jpg
 ---
 

@@ -2,7 +2,10 @@
 layout: post
 title: "GPU computing workshop at TÜBİTAK UZAY"
 tags:
-  - Software Engineering
+- Software Engineering
+- Trainings
+- CUDA
+- OpenACC
 thumbnail_path: blog/2014-09-01-gpu-computing-workshop-at-tubitak-uzay/photo2.jpeg
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "HPC Advisory Council Switzerland"
 tags:
-  - Software Engineering
+- Software Engineering
+- Trainings
+- CUDA
 thumbnail_path: blog/2014-04-12-hpc-advisory-council-switzerland/hpcac.png
 ---
 
