@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA Workshop at the University of Offenburg"
+title: "HPC Day in Kiev"
 tags:
 - Software Engineering
 - Trainings

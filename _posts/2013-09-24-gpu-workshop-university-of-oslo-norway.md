@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA Workshop at the University of Offenburg"
+title: "GPU Workshop at the University of Oslo"
 tags:
 - Software Engineering
 - Trainings

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA Workshop at the University of Offenburg"
+title: "International Summer Supercomputing Academy, at the Lomonosov Moscow State University"
 tags:
 - Software Engineering
 - Trainings

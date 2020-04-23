@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA Workshop at the University of Offenburg"
+title: "Seminar on NVIDIA Tesla personal supercomputers, programming GPUs with CUDA"
 tags:
 - Software Engineering
 - Trainings

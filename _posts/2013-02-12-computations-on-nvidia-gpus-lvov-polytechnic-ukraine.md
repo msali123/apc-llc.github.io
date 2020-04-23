@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA Workshop at the University of Offenburg"
+title: "Computations on NVIDIA GPUs"
 tags:
 - Software Engineering
 - Trainings

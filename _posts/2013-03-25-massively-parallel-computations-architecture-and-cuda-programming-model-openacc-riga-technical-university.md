@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA Workshop at the University of Offenburg"
+title: "Massively parallel computations, architecture and CUDA programming model + OpenACC"
 tags:
 - Software Engineering
 - Trainings

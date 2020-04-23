@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA Workshop at the University of Offenburg"
+title: "2-day GPU training course"
 tags:
 - Software Engineering
 - Trainings

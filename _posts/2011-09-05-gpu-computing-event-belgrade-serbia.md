@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA Workshop at the University of Offenburg"
+title: "GPU Computing event"
 tags:
 - Software Engineering
 - Trainings

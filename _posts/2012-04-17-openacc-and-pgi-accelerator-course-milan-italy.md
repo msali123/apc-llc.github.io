@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA Workshop at the University of Offenburg"
+title: "OpenACC and PGI Accelerator course"
 tags:
 - Software Engineering
 - Trainings

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA Workshop at the University of Offenburg"
+title: "Solving engineering and scientific problems on hybrid computer systems. GPU computing and CUDA"
 tags:
 - Software Engineering
 - Trainings

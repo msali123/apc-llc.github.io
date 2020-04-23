@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA Workshop at the University of Offenburg"
+title: "GPU Workshop at the University of Bremen"
 tags:
 - Software Engineering
 - Trainings

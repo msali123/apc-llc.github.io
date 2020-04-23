@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA Workshop at the University of Offenburg"
+title: "Winter School on GPU Computing and CUDA"
 tags:
 - Software Engineering
 - Trainings

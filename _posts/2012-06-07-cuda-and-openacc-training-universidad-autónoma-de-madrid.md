@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA Workshop at the University of Offenburg"
+title: "CUDA and OpenACC training"
 tags:
 - Software Engineering
 - Trainings
