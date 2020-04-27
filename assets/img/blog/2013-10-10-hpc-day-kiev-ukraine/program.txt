@@ -1,0 +1,5 @@
+Программа NVIDIA CUDA HPC Worshop (HPC Day 2012, KPI)
+
+* Новое в CUDA 5 и Kepler (1 час)
+* OpenACC (лекция, 1 час)
+* OpenACC (практикум, 1 час)
