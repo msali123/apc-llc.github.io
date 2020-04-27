@@ -12,4 +12,4 @@ Applied Parallel Computing LLC delivered the OpenACC Workshop at the KIEV, Ukrai
 
 ![alt text](\assets\img\blog\2013-10-10-hpc-day-kiev-ukraine\NTUU_KPI_logo.png "Logo Title Text 1")
 
-[Workshop program](\assets\img\blog\2013-10-10-hpc-day-kiev-ukraine\pragram.pdf)
+[Workshop program](\assets\img\blog\2013-10-10-hpc-day-kiev-ukraine\program.pdf)
