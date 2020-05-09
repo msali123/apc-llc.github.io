@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seminar on NVIDIA Tesla personal supercomputers, programming GPUs with CUDA"
+title: "Telsa & CUDA Seminar at Kharkiv Institute for Single Crystals"
 tags:
 - Software Engineering
 - Trainings

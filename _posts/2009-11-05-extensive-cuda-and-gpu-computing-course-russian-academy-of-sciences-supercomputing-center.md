@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Extensive CUDA and GPU computing course"
+title: "CUDA and GPU computing course at Joint Supercomputer Center RAS, Moscow"
 tags:
 - Software Engineering
 - Trainings

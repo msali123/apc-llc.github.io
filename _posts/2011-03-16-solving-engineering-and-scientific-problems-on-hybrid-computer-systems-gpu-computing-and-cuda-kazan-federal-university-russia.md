@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solving engineering and scientific problems on hybrid computer systems. GPU computing and CUDA"
+title: "CUDA for engineering and scientific problems at Kazan Federal University"
 tags:
 - Software Engineering
 - Trainings
