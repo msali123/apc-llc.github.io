@@ -1,5 +1,5 @@
 # Website settings
-url: "https://apc-llc.github.io"
+url: "https://msali123.github.io"
 
 # Internal nav
 nav:
@@ -49,7 +49,7 @@ sass:
   style: :compressed
 highlighter: rouge
 timezone: 'Europe/Geneva'
-repository: apc-llc/apc-llc.github.io
+repository: msali123/apc-llc.github.io
 
 # Plugins (GitHub Pages only support a few)
 plugins:
