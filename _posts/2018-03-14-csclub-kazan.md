@@ -8,3 +8,4 @@ tags:
 thumbnail_path:
 ---
 
+Nothing found related to this post in the assets\img\blog directory
