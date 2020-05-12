@@ -8,7 +8,7 @@ tags:
 thumbnail_path: blog/
 ---
 
-Applied Parallel Computing LLC delivered training on GPU computing with CUDA at Informatics and RadioElectronics Uniersity.
+Applied Parallel Computing LLC delivered training on GPU computing with CUDA at Informatics and RadioElectronics Uniersity, Belarus.
 
 Nothing found related to this post in the assets\img\blog directory
 

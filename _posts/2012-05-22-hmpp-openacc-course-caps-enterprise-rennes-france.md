@@ -8,7 +8,7 @@ tags:
 thumbnail_path: blog/
 ---
 
-Applied Parallel Computing LLC delivered HMPP/OpenACC course at .
+Applied Parallel Computing LLC delivered HMPP/OpenACC course at Caps Enterprise Rennes, France.
 
 Nothing found related to this post in the assets\img\blog directory
 

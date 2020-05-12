@@ -5,6 +5,9 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+thumbnail_path: blog/
 ---
 
-Nothing found related to this post in the assets\img\blog directory
+Applied Parallel Computing LLC delivered CUDA course at Yandex, Moscow, Russia.
+
+![alt text](\assets\img\blog\"Logo Title Text 1")

@@ -8,7 +8,7 @@ tags:
 thumbnail_path: blog/
 ---
 
-Applied Parallel Computing LLC delivered OpenACC and PGI Accelerator course at .
+Applied Parallel Computing LLC delivered OpenACC and PGI Accelerator course at Milan, Italy.
 
 Nothing found related to this post in the assets\img\blog directory
 

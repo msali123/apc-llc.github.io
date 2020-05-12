@@ -8,7 +8,7 @@ tags:
 thumbnail_path: blog/
 ---
 
-Applied Parallel Computing LLC delivered CUDA & OpenACC training at .
+Applied Parallel Computing LLC delivered CUDA & OpenACC training at Universidad Autónoma de Madrid, Spain.
 
 Nothing found related to this post in the assets\img\blog directory
 

@@ -8,7 +8,7 @@ tags:
 thumbnail_path: blog/
 ---
 
-Applied Parallel Computing LLC delivered 4-day OpenACC and CUDA  course at Financial Corporation Otkritie, Moscow.
+Applied Parallel Computing LLC delivered 4-day OpenACC and CUDA  course at Financial Corporation Otkritie, Moscow, Russia.
 
 Nothing found related to this post in the assets\img\blog directory
 

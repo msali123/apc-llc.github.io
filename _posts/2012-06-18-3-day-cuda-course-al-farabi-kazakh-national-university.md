@@ -8,7 +8,7 @@ tags:
 thumbnail_path: blog/
 ---
 
-Applied Parallel Computing LLC delivered 3-day CUDA  course at Al-Farabi National University, Kazakh.
+Applied Parallel Computing LLC delivered 3-day CUDA  course at Al-Farabi National University, Kazakhstan.
 
 Nothing found related to this post in the assets\img\blog directory
 

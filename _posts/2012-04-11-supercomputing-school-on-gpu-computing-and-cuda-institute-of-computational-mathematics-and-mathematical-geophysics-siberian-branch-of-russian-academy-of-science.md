@@ -8,7 +8,7 @@ tags:
 thumbnail_path: blog/
 ---
 
-Applied Parallel Computing LLC delivered Supercomputing school on GPU Computing and CUDA at Institute of Computational Mathematics and Mathematical Geophysics Siberian Branch of Russian Academy of Science.
+Applied Parallel Computing LLC delivered Supercomputing school on GPU Computing and CUDA at Institute of Computational Mathematics and Mathematical Geophysics Siberian Branch of Russian Academy of Science, Russia.
 
 Nothing found related to this post in the assets\img\blog directory
 
