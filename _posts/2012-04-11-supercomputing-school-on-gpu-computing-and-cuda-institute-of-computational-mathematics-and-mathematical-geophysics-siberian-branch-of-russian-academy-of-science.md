@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Supercomputing school on GPU Computing and CUDA"
+title: "Supercomputing school on GPU Computing and CUDA at Institute of Computational Mathematics and Mathematical Geophysics Siberian Branch of Russian Academy of Science"
 tags:
 - Software Engineering
 - Trainings
