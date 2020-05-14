@@ -5,7 +5,7 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
-date:
+dates:
 - 2017-09-18
 - 2017-09-19
 thumbnail_path: blog/2017-09-17-cuda-workshop-at-the-university-of-offenburg/IMG_20170918_090250.jpg

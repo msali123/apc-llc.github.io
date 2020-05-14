@@ -5,7 +5,7 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
-date:
+dates:
 - 2019-01-14
 - 2019-01-17
 thumbnail_path: blog/2019-01-14–continental/client_logo.png

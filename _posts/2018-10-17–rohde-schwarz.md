@@ -5,7 +5,7 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
-date:
+dates:
 - 2018-10-17
 - 2018-10-19
 thumbnail_path: blog/22018-10-17–rohde-schwarz/client_logo.png

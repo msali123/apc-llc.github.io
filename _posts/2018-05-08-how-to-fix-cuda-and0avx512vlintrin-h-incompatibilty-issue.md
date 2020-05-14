@@ -5,7 +5,7 @@ tags:
 - CUDA
 - Software Engineering
 - GCC
-date:
+dates:
 2018-05-08
 thumbnail_path: blog/2018-05-08-how-to-fix-cuda-and0avx512vlintrin-h-incompatibilty-issue/gcc.png
 ---
