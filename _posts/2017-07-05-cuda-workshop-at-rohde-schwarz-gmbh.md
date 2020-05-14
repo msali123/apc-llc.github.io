@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "CUDA Workshop at Rohde & Schwarz GmbH"
+title: "3-day Course on GPU Computing at Rohde & Schwarz Gmb"
 tags:
 - Software Engineering
 - Trainings
 - CUDA
 - MPI
+date:
+- 2017-07-03
+- 2017-07-05
 thumbnail_path: blog/2017-07-05-cuda-workshop-at-rohde-schwarz-gmbh/Rohde_Schwarz_Logo.png
 ---
 
