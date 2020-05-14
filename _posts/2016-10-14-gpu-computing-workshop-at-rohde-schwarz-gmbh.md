@@ -5,6 +5,9 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2016-10-13
+- 2016-10-14
 thumbnail_path: blog/2016-10-14-gpu-computing-workshop-at-rohde-schwarz-gmbh/Rohde_Schwarz_Logo.png
 ---
 
