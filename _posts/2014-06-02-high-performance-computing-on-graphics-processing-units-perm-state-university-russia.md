@@ -5,6 +5,8 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2014-06-02
 thumbnail_path: blog/
 ---
 

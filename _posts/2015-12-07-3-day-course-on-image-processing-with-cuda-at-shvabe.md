@@ -5,6 +5,9 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2015-11-25
+- 2015-11-27
 thumbnail_path: blog/2015-12-07-3-day-course-on-image-processing-with-cuda-at-shvabe/Shvabe.jpg
 ---
 

@@ -3,6 +3,8 @@ layout: post
 title: "Calling CUDA device function from OpenACC Fortran kernel"
 tags:
   - Software Engineering
+dates:
+- 2014-07-11
 thumbnail_path: blog/2014-07-11-calling-cuda-device-function-from-openacc-fortran-kernel/openacc.jpg
 ---
 

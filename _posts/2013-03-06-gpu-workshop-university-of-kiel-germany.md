@@ -5,6 +5,9 @@ tags:
   - Software Engineering
   - Trainings
   - CUDA
+dates:
+- 2013-03-06
+- 2013-03-08
 thumbnail_path: blog/2013-03-06-gpu-workshop-university-of-kiel-germany/university_logo.png
 ---
 

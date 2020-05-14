@@ -5,6 +5,8 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2010-10-12
 thumbnail_path: blog/2010-10-12-ustar-conference-on-hpc-kiev-ukraine/ustar.jpg
 ---
 

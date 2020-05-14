@@ -5,6 +5,9 @@ tags:
 - Software Engineering
 - Trainings
 - OpenACC
+dates:
+- 2016-09-05
+- 2016-09-06
 thumbnail_path: blog/2016-09-16-openacc-workshop-at-the-univeristy-of-mainz/WP_20160906_014.jpg
 ---
 

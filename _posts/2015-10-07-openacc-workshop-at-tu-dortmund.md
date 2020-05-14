@@ -5,6 +5,9 @@ tags:
 - Software Engineering
 - Trainings
 - OpenACC
+dates:
+- 2015-09-29
+- 2015-09-30
 thumbnail_path: blog/2015-10-07-openacc-workshop-at-tu-dortmund/photo.jpg
 ---
 

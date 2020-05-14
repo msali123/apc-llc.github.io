@@ -5,6 +5,8 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2014-04-12
 thumbnail_path: blog/2014-04-12-hpc-advisory-council-switzerland/hpcac.png
 ---
 

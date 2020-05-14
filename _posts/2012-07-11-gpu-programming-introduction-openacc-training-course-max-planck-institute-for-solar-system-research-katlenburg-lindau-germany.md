@@ -5,6 +5,8 @@ tags:
   - Software Engineering
   - Trainings
   - CUDA
+dates:
+- 2012-07-11
 thumbnail_path: blog/2012-07-11-gpu-programming-introduction-openacc-training-course-max-planck-institute-for-solar-system-research-katlenburg-lindau-germany/mps_logo.png
 ---
 

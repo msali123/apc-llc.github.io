@@ -5,6 +5,8 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2009-11-05
 thumbnail_path: blog/2009-11-05-extensive-cuda-and-gpu-computing-course-russian-academy-of-sciences-supercomputing-center/logo.jpg
 ---
 

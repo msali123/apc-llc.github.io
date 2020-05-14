@@ -5,6 +5,8 @@ tags:
   - Software Engineering
   - Trainings
   - CUDA
+dates:
+- 2012-01-16
 thumbnail_path: blog/2012-01-16-3-day-cuda-course-technical-university-of-munich-germany/tum_logo.gif
 ---
 

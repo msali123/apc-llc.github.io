@@ -5,6 +5,8 @@ tags:
   - Software Engineering
   - Trainings
   - CUDA
+dates:
+- 2013-10-10
 thumbnail_path: blog/2013-10-10-hpc-day-kiev-ukraine/NTUU_KPI_logo.png
 ---
 

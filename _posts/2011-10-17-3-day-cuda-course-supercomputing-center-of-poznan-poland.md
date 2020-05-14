@@ -5,6 +5,8 @@ tags:
   - Software Engineering
   - Trainings
   - CUDA
+dates:
+- 2011-10-17
 thumbnail_path: blog/2011-10-17-3-day-cuda-course-supercomputing-center-of-poznan-poland/pcnc_logo.png
 ---
 

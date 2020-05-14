@@ -5,6 +5,8 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2011-09-05
 thumbnail_path: blog/2011-09-05-gpu-computing-event-belgrade-serbia/belgrade.jpg
 ---
 

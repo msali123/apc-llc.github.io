@@ -5,6 +5,8 @@ tags:
   - Software Engineering
   - Trainings
   - CUDA
+dates:
+- 2013-09-24
 thumbnail_path: blog/2013-09-24-gpu-workshop-university-of-oslo-norway/university_logo.png
 ---
 

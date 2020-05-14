@@ -5,6 +5,8 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2014-06-24
 thumbnail_path:    \blog\2013-06-24-international-summer-supercomputing-academy-lomonosov-moscow-state-university\msu_logo.png
 ---
 

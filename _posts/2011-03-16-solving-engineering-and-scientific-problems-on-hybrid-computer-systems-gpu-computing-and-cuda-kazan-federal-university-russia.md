@@ -5,6 +5,8 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2011-03-16
 thumbnail_path: blog/2011-03-16-solving-engineering-and-scientific-problems-on-hybrid-computer-systems-gpu-computing-and-cuda-kazan-federal-university-russia/logo.jpg
 ---
 

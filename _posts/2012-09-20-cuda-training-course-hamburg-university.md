@@ -5,6 +5,8 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2012-09-20
 thumbnail_path: blog/2013-10-07-gpu-workshop-university-of-hamburg-germany/university_logo.jpg
 ---
 

@@ -5,6 +5,8 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2010-02-11
 thumbnail_path: blog/2010-02-11-seminar-on-nvidia-tesla-personal-supercomputers-programming-with-CUDA-institute-for-scintillation-materials-kharkiv-ukraine/logo.png
 ---
 

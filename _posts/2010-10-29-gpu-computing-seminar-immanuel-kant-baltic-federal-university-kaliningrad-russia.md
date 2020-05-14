@@ -5,6 +5,8 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2010-10-29
 thumbnail_path: blog/2010-10-29-gpu-computing-seminar-immanuel-kant-baltic-federal-university-kaliningrad-russia/logo.jpg
 ---
 

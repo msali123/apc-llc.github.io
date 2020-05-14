@@ -5,6 +5,9 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2015-09-29
+- 2015-10-02
 thumbnail_path: blog/2015-10-07-4-day-cuda-course-at-airbus-defence-and-space/airbus.jpg
 ---
 

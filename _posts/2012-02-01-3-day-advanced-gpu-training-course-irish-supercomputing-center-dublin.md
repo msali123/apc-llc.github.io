@@ -5,6 +5,8 @@ tags:
   - Software Engineering
   - Trainings
   - CUDA
+dates:
+- 2012-02-01
 thumbnail_path: blog/2012-02-01-3-day-advanced-gpu-training-course-irish-supercomputing-center-dublin/ICHEC_Logo.png
 ---
 

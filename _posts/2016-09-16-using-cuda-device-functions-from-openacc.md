@@ -3,6 +3,8 @@ layout: post
 title: "Using CUDA device functions from OpenACC"
 tags:
   - Software Engineering
+dates:
+2016-09-16
 thumbnail_path: blog/2016-09-16-using-cuda-device-functions-from-openacc/openacc_device_function.jpg
 ---
 

@@ -5,6 +5,8 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2011-09-12
 thumbnail_path: blog/2011-09-12-streaming-data-processing-and-programming-institute-of-computational-technologies-sb-ras/logo.png
 ---
 

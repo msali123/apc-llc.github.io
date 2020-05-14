@@ -6,6 +6,8 @@ tags:
 - Trainings
 - CUDA
 - OpenACC
+dates:
+- 2014-09-01
 thumbnail_path: blog/2014-09-01-gpu-computing-workshop-at-tubitak-uzay/photo2.jpeg
 ---
 

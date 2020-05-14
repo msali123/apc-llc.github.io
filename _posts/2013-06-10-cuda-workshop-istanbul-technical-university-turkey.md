@@ -5,7 +5,10 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2013-06-10
 thumbnail_path: blog/
+
 ---
 
 Applied Parallel Computing LLC delivered CUDA Workshop at Istanbul Technical University, Turkey.

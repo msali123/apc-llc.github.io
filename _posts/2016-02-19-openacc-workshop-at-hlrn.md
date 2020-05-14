@@ -5,6 +5,9 @@ tags:
 - Software Engineering
 - Trainings
 - OpenACC
+dates:
+- 2016-02-08
+- 2016-02-09
 thumbnail_path: blog/2016-02-19-openacc-workshop-at-hlrn/WP_20160209_001.jpg
 ---
 
