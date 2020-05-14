@@ -9,6 +9,8 @@ tags:
 thumbnail_path: blog/2020-05-07-setting-up-jitsi-meet/jitsi.jpg
 pytorch_url: "https://github.com/jitsi/jitsi-meet"
 pytorch_fork_url: "https://github.com/dmikushin/jitsi-meet"
+dates:
+- 2020-05-07
 ---
 
 Web-conferencing platforms are on the raise during these unprecedented times. On the other side, the vulnerablilities of Zoom and lack of privacy motivates us to explore possible alternatives. In this post I will run through the setup of [Jitsi]({{ page.jitsi_url }}) - a Java-based technology stack for privately-held web-conferencing.
