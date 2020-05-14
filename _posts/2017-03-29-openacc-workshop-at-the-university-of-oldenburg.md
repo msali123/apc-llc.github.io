@@ -5,6 +5,9 @@ tags:
 - Software Engineering
 - Trainings
 - OpenACC
+dates:
+- 2017-03-28
+- 2017-03-29
 thumbnail_path: blog/2017-03-29-openacc-workshop-at-the-university-of-oldenburg/WP_20170328_006_.jpg
 ---
 
