@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "OpenACC workshop at the University of Hamburg"
+title: "2-day OpenACC training course at Universität Hamburg"
 tags:
 - Software Engineering
 - Trainings
 - OpenACC
-thumbnail_path: blog/2017-05-04-openacc-workshop-at-the-university-of-hamburg/Hamburg_02.jpg
+dates:
+- 2017-05-03
+- 2017-05-04
+thumbnail_path: blog/2017-05-04-openacc-workshop-at-the-university-of-hamburg/university_logo.jpg
 ---
 
-Applied Parallel Computing LLC delivered the OpenACC Workshop at the Carl von Ossietzky University of Oldenburg, Germany. The workshop has been kindly supported by NVIDIA, sysGen GmbH, and [SMB GmbH](http://smb-net.de/).
+Applied Parallel Computing LLC delivered 2-day OpenACC training course at Universität Hamburg, Germany.
 
 ![alt text](\assets\img\blog\2017-05-04-openacc-workshop-at-the-university-of-hamburg\Hamburg_02.jpg "Logo Title Text 1")
 
