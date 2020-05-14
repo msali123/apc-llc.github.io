@@ -5,6 +5,9 @@ tags:
 - Software Engineering
 - Trainings
 - OpenACC
+dates:
+- 2016-10-17
+- 2016-10-18
 thumbnail_path: blog/2016-10-18-openacc-workshop-at-the-univeristy-of-tuebingen/utuebingen_logo.png
 ---
 
