@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "OpenACC workshop at the Univeristy of Darmstadt"
+title: "2-day OpenACC Course at the University of Darmstadt"
 tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2016-09-28
+- 2016-09-29
 thumbnail_path: blog/2016-09-29-openacc-workshop-at-the-univeristy-of-darmstadt/IMG_20160928_090934_1.jpg
 ---
 
