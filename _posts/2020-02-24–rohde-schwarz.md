@@ -5,10 +5,9 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
-thumbnail_path: blog/2020-02-24–rohde-schwarz/client_logo.png
 dates:
-- 2019-12-06
-- 2019-12-07
+- 2020-04-24
+thumbnail_path: blog/2020-02-24–rohde-schwarz/client_logo.png
 ---
 
 Applied Parallel Computing LLC delivered the GPU Training Course at Dublin City University, Ireland.
